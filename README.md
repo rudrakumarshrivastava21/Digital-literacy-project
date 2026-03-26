@@ -1,7 +1,13 @@
 # Digital-literacy-project (CSE0001):-
+
 Name - Rudra Kumar Shrivastava 
+
 Registration number- 25BCE11105
+
 Program- B.tech CSE core
+
+VIT BHOPAL UNIVERSITY
+
 
 #This repository contains my project of digital literacy in which i am assignesd as a student ambassador, covering 5 modules of digital literacy.
 
@@ -16,3 +22,10 @@ link to quiz- https://forms.gle/7h1J2BSRSdjqb1uh6
 TASK 4- Professional email drafts and social media checklist.
 
 TASK 5- Cybercrime Case Study and Prevention Guide.
+
+IMPORTANT LINKS
+
+link to quiz- https://forms.gle/7h1J2BSRSdjqb1uh6
+
+LINKED IN -https://www.linkedin.com/in/rudra-kumar-shrivastava-b14457381/
+
